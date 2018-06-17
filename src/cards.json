@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Luffy",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20160807103317",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Zoro",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20141008195159",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Nami",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20160917032958",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Nico Robin",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/5/5d/Nico_Robin_Anime_Pre_Timeskip_Infobox.png/revision/latest?cb=20130105045304",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Chopper",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130428202154",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Franky",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/5/58/Franky_After_Accident.png/revision/latest?cb=20130510181652",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Vinsmoke Sanji",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20170625125657",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Brook",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/270?cb=20161016160925",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Ace",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20171114104823",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Gol D Roger",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20161001180022",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Jinbei",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521201349",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Usopp",
+    "image": "https://vignette.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130708033601",
+    "count": 0
+  }
+]
